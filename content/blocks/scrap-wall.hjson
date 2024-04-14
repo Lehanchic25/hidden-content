@@ -1,0 +1,7 @@
+buildVisibility: shown,
+research: { 
+      parent: copper-wall,
+       requirements: [
+         scrap/200
+ ]
+}

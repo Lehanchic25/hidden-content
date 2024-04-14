@@ -1,0 +1,7 @@
+buildVisibility: shown
+research: { 
+      parent: scrap-wall,
+       requirements: [
+         scrap/800
+ ]
+}

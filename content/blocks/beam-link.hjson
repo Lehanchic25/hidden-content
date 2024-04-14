@@ -1,0 +1,16 @@
+buildVisibility: shown
+requirements: [
+         silicon/110
+         beryllium/170,
+         oxide/65,
+         phase-fabric/15
+ ]
+research: { 
+      parent: beam-tower,
+       requirements: [
+         silicon/1100
+         beryllium/1650,
+         oxide/650,
+         phase-fabric/150
+ ]
+}
