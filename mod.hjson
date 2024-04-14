@@ -1,0 +1,7 @@
+displayName:"Hidden Content"
+name: "hid-cont"
+description: "Этот мод позволяет строить скрытые блоки, которые доступны только в песочнице или которые вообще недоступны без читов"
+author: "Lehanchic25"
+version: "1"
+minGameVersion: 136
+hidden: true
